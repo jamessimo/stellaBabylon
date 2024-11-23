@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "babylonjs": "^7.35.1",
+    "babylonjs-loaders": "^7.35.1"
+  }
+}
