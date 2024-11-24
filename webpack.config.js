@@ -2,7 +2,8 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './main.ts',
+  entry: './src/main.ts', // Ensure this path is correct
+  watch: true,
   module: {
     rules: [
       {
